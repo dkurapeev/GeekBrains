@@ -3,3 +3,4 @@ Hello Git
 234
 32
 23
+Hello, Git rebase!
